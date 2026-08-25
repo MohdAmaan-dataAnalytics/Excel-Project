@@ -2,9 +2,7 @@
 
 An interactive Sales & Profit Dashboard built entirely in Microsoft Excel using the Superstore dataset.
 
-## 📊 Dashboard Preview
 
-![Superstore Sales & Profit Dashboard](dashboard-preview.png)
 
 ## 🎯 Project Objective
 
@@ -41,6 +39,10 @@ The dashboard allows users to explore the data dynamically using slicers and vis
   - Year
   - Region
   - Segment
+ 
+  - ## 📊 Dashboard Preview
+
+![Superstore Sales & Profit Dashboard](dashboard-preview.png)
 
 ## 📂 Files Included
 
