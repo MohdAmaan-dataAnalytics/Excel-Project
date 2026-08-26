@@ -58,4 +58,4 @@ This project helped me practice building an interactive business dashboard in Ex
 
 **Mohd Amaan**
 
-GitHub: [mohdamaan8954](https://github.com/mohdamaan8954)
+GitHub: [MohdAmaan-dataAnalytics](https://github.com/MohdAmaan-dataAnalytics)
